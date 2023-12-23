@@ -35,7 +35,7 @@ export default function Home() {
               <Link href={"/sub/${recommend.slug}"}>
                 <a>
                   <h3 className="text-black font-normal text-xl leading-relaxed text-center">
-                    자전거 추천 받으러 가기
+                    자전거 추천 받기
                   </h3>
                 </a>
               </Link>
