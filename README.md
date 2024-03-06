@@ -14,15 +14,16 @@
 
 ## 사용기술
 
+
 - node_modules [npm i]
-- Tailwind css [https://projectlog.tistory.com/16]
-- npm(React Fast Marquee) [https://www.npmjs.com/package/react-fast-marquee]
+- Tailwind css 
+- npm(React Fast Marquee) 
 - npm(MongoDB) [npm i mongoose]
 - npm(bcrypt) [npm i bcrypt]
 - npm(axios) [npm i axios]
 - npm(next-auth) [npm i next-auth]
-"# bicycle" 
-"# bicycle" 
+- react
+- javascript
 
 ## 시연 영상
 https://github.com/hurhyeon/air_bnb/assets/90999300/7b49cdb8-5408-434f-8ceb-0d1a68dd83c9
