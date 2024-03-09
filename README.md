@@ -28,5 +28,5 @@
 ## 시연 영상
 https://github.com/hurhyeon/air_bnb/assets/90999300/7b49cdb8-5408-434f-8ceb-0d1a68dd83c9
 
-## 호스팅
+## vercel
 https://bicycle-opal.vercel.app/sub/second
